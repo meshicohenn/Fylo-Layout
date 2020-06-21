@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: raleway-regular;
+    color: #ffffff;
+    line-height: 1.5em;
+    text-align: center;
+    background-color: $clr1;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: raleway-medium;
+    line-height: 1.2em;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: rem(70px);
+}
+
+p {
+    font-family: open-sans-regular;
+    margin: 0 0 rem(20px);
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}

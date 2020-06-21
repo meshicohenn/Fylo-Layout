@@ -1,0 +1,49 @@
+.footer-container{
+    padding: 200px 80px 80px 80px;
+    background-color: #0b1524;
+    text-align: left;
+    .details-container{
+        margin-top: 40px;
+        .location-item{
+            p{
+                width: 340px;
+                margin-left: 20px;
+            }
+        }
+        img{
+            margin-top: 5px;
+            width: 16px;
+            height: 16px;
+        }
+        .phone-item{
+            margin-bottom: 20px;
+            span{
+                margin-left: 20px;
+            }
+            img{
+                margin-top: 10px;
+            }
+        }
+        ul{
+            margin-right: 80px;
+            li{
+                margin-bottom: 10px;
+            }
+        }
+        .social-media{
+            img{
+                width: 13px;
+                height: 15px;
+                margin: 0;
+            }
+            .social-item{
+                width: 34px;
+                height: 34px;
+                border: 1px solid white;
+                border-radius: 50%;
+                padding: 3px;
+                margin-right: 15px;
+            }
+        }
+    }
+}

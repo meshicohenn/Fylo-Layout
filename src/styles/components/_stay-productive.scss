@@ -1,0 +1,33 @@
+.stay-productive {
+    margin-bottom: 130px;
+    img {
+        width: 615px;
+        height: 464px;
+    }
+    .txt-conatiner {
+        width: 563px;
+        text-align: left;
+        font-family: raleway-medium;
+        margin-left: 55px;
+        // padding-right: 160px;
+        h2 {
+            width: 350px;
+            font-size: rem(40px);
+        }
+        img {
+            width: 20px;
+            height: 20px;
+        }
+        .link-fylo{
+            cursor: pointer;
+            border-bottom: 2px solid #62e0d9;
+            width: 170px;
+            a {
+                font-family: open-sans-light;
+                color: #62e0d9;
+                padding-right: 8px ;
+            }
+        }
+        
+    }
+}

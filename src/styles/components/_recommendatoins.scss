@@ -1,0 +1,61 @@
+.recommen-container {
+    margin-bottom: 300px;
+    margin-left: 80px;
+
+    .recommen-item {
+        width: 28%;
+        margin-left: 36px;
+        background-color: $clr4;
+        padding: 30px;
+        border-radius: 4px;
+        font-size: rem(14px);
+        text-align: left;
+        .recommen-img {
+            margin: -67px -55px 0px -41px;
+            position: absolute;
+            z-index: -1;
+            img {
+                width: 55px;
+            }
+        }
+        .user-container {
+            img {
+                width: 24px;
+                height: 24px;
+                border-radius: 50%;
+            }
+            .user-details {
+                margin-left: 8px;
+                text-align: left;
+                .user-name {
+                    font-size: rem(10px);
+                    font-family: open-sans-semi-bold;
+                    line-height: 0.6rem;
+                }
+                .user-profession {
+                    font-size: rem(8px);
+                    font-family: open-sans-regular;
+                    line-height: 1rem;
+                }
+            }
+        }
+    }
+    .recommen-item:not(:last-child) {
+        margin-right: 35px;
+    }
+}
+
+
+@include for-narrow-layout {
+    .recommen-container {
+        margin:0;
+        .recommen-item {
+            margin:0;
+            width: 90%;
+            margin-bottom: 20px;
+        }
+        .recommen-item:not(:last-child) {
+            margin-right:0px;
+        }
+    } 
+}

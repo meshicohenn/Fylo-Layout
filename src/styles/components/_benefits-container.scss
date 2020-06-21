@@ -1,0 +1,39 @@
+.benefits {
+    margin-bottom: 130px;
+    .benefits-container {
+        max-width: 880px;
+        justify-content: space-between;
+        .benefit-item {
+            img {
+                width: 80px;
+            }
+            width: 40%;
+            margin-top: 80px;
+            h4 {
+                font-family: raleway-regular;
+                font-size: rem(20px);
+            }
+            p {
+                font-size: rem(14px);
+            }
+        }
+        .benefit-item:nth-of-type(2) {
+            img {
+                width: 60px;
+            }
+        }
+    }
+}
+
+@include for-narrow-layout {
+    .benefits {
+        .benefits-container {
+            max-width: 400px;
+            justify-content: center;
+
+            .benefit-item {
+                width: 80%;
+            }
+        }
+    }
+}

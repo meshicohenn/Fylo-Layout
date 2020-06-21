@@ -1,0 +1,22 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/functions.scss";
+@import "setup/mixins.scss";
+@import "setup/typography.scss";
+
+// Basics
+@import "basics/helpers.scss";
+@import "basics/layout.scss";
+@import "basics/base.scss";
+@import "basics/links.scss";
+@import "basics/buttons.scss";
+
+// Components
+@import "components/main-header.scss";
+@import "components/cat-card.scss";
+@import "components/main-section-container.scss";
+@import "components/benefits-container.scss";
+@import "components/stay-productive.scss";
+@import "components/recommendatoins";
+@import "components/footer";
+@import "components/get-started";
