@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Fylo-Layout/static/css/main.48bda4b5.chunk.css",
+    "main.js": "/Fylo-Layout/static/js/main.64e7148d.chunk.js",
+    "main.js.map": "/Fylo-Layout/static/js/main.64e7148d.chunk.js.map",
+    "runtime-main.js": "/Fylo-Layout/static/js/runtime-main.481cc464.js",
+    "runtime-main.js.map": "/Fylo-Layout/static/js/runtime-main.481cc464.js.map",
+    "static/js/2.24384f86.chunk.js": "/Fylo-Layout/static/js/2.24384f86.chunk.js",
+    "static/js/2.24384f86.chunk.js.map": "/Fylo-Layout/static/js/2.24384f86.chunk.js.map",
+    "index.html": "/Fylo-Layout/index.html",
+    "precache-manifest.b2cde988e5c03851221402875a9d8897.js": "/Fylo-Layout/precache-manifest.b2cde988e5c03851221402875a9d8897.js",
+    "service-worker.js": "/Fylo-Layout/service-worker.js",
+    "static/css/main.48bda4b5.chunk.css.map": "/Fylo-Layout/static/css/main.48bda4b5.chunk.css.map",
+    "static/js/2.24384f86.chunk.js.LICENSE": "/Fylo-Layout/static/js/2.24384f86.chunk.js.LICENSE",
+    "static/media/global.scss": "/Fylo-Layout/static/media/Raleway-Thin.3e213694.ttf",
+    "static/media/icon-access-anywhere.svg": "/Fylo-Layout/static/media/icon-access-anywhere.5f4b8b3e.svg",
+    "static/media/icon-any-file.svg": "/Fylo-Layout/static/media/icon-any-file.aedb3ae0.svg",
+    "static/media/icon-arrow.svg": "/Fylo-Layout/static/media/icon-arrow.794c5a48.svg",
+    "static/media/icon-collaboration.svg": "/Fylo-Layout/static/media/icon-collaboration.ca8c71cf.svg",
+    "static/media/icon-email.svg": "/Fylo-Layout/static/media/icon-email.c90d96c2.svg",
+    "static/media/icon-location.svg": "/Fylo-Layout/static/media/icon-location.0f65814b.svg",
+    "static/media/icon-phone.svg": "/Fylo-Layout/static/media/icon-phone.47e54a44.svg",
+    "static/media/icon-security.svg": "/Fylo-Layout/static/media/icon-security.f5585378.svg",
+    "static/media/illustration-intro.png": "/Fylo-Layout/static/media/illustration-intro.526544ae.png",
+    "static/media/illustration-stay-productive.png": "/Fylo-Layout/static/media/illustration-stay-productive.99294b1f.png",
+    "static/media/logo.svg": "/Fylo-Layout/static/media/logo.c71bf7bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481cc464.js",
+    "static/js/2.24384f86.chunk.js",
+    "static/css/main.48bda4b5.chunk.css",
+    "static/js/main.64e7148d.chunk.js"
+  ]
+}
